@@ -3,11 +3,11 @@
                             Settings
 
  **************************************************************/
-#include "wifi_credentials.h" // see ReadMe
+
 /*
      Blynk Auth Code
 */
-#define AUTH                      "9739e5f9d95941c99ca2b96526e70d5e"
+#define AUTH                      "ZiHr37iwQ8eQnLtPHhU5t6KavRVB7myV"
 /*
    Over The Air Hostname
 */
@@ -62,4 +62,3 @@
   Debugging
 */
 #define DEBUG
-
